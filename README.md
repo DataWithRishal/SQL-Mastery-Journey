@@ -1,2 +1,2 @@
 # SQL-Mastery-Journey
-🚀 Tracking my journey from Zero to Data Engineer, following the @DataWithBaraa roadmap. Currently mastering SQL for Data Architecture.
+🚀Mastering Data Architecture through SQL. Documenting the transition from BCA to scalable data solutions. Expert-level querying, optimization, and schema design.
