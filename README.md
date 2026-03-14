@@ -16,13 +16,17 @@ This repository is organized into strategic modules designed to master database 
 - **Concepts:** `IN`, `BETWEEN`, `LIKE` (Wildcards), and Logical Operators (`AND`/`OR`).
 - **Industry Scenario:** Retail Performance Analytics for high-margin inventory.
 
+### 📁 [03-Data-Aggregations](./03-Data-Aggregations)
+- **Focus:** Statistical Insights & Business Metrics.
+- **Concepts:** `GROUP BY`, `SUM()`, `AVG()`, `COUNT()`, and `HAVING`.
+- **Industry Scenario:** Executive-level Q1 Sales Reporting.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
 - **IDE:** MySQL Workbench
 - **Version Control:** GitHub Desktop / Git
-- **Hardware:** MacBook M4
-- **Goal:** Landing a Data Architect role within 6 months.
 
 ---
 *“Designing the blueprints for tomorrow's data today.”*
