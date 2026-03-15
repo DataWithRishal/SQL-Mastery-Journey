@@ -22,6 +22,12 @@ This repository is organized into strategic modules designed to master database 
 - **Industry Scenario:** Executive-level Q1 Sales Reporting.
 - **Status:** ✅ Complete
 
+### 📁 [04-Relational-Joins](./04-Relational-Joins)
+- **Focus:** Data Connectivity & Schema Relationships.
+- **Concepts:** `INNER JOIN`, `LEFT JOIN`, `ON` clause, and Table Aliasing.
+- **Industry Scenario:** Mapping Customer Journeys & Order History.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
