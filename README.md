@@ -28,6 +28,12 @@ This repository is organized into strategic modules designed to master database 
 - **Industry Scenario:** Mapping Customer Journeys & Order History.
 - **Status:** ✅ Complete
 
+### 📁 [05-DDL-Table-Creation](./05-DDL-Table-Creation)
+- **Focus:** Database Structural Engineering.
+- **Concepts:** `CREATE TABLE`, `ALTER TABLE`, Data Types (`INT`, `VARCHAR`, `DECIMAL`), and Default Values.
+- **Industry Scenario:** Designing an Inventory Management Schema.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
