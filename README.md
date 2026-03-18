@@ -34,6 +34,12 @@ This repository is organized into strategic modules designed to master database 
 - **Industry Scenario:** Designing an Inventory Management Schema.
 - **Status:** ✅ Complete
 
+### 📁 [06-Data-Integrity-Constraints](./06-Data-Integrity-Constraints)
+- **Focus:** Protecting Data Quality.
+- **Concepts:** `PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE`, `CHECK`, and `DEFAULT`.
+- **Industry Scenario:** Enforcing Business Rules in a User Management System.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
