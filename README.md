@@ -42,6 +42,12 @@ This repository is organized into strategic modules designed to master database 
 - **Industry Scenario:** Enforcing Business Rules in a User Management System.
 - **Status:** ✅ Complete
 
+### 📁 [07-Data-Manipulation-DML](./07-Data-Manipulation-DML)
+- **Focus:** Managing the Data Lifecycle.
+- **Concepts:** `INSERT INTO`, `UPDATE`, `DELETE`, and `WHERE` clause safety.
+- **Industry Scenario:** Real-time Inventory Updates and Record Maintenance.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
