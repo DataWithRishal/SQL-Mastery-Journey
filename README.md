@@ -48,6 +48,13 @@ This repository is organized into strategic modules designed to master database 
 - **Industry Scenario:** Real-time Inventory Updates and Record Maintenance.
 - **Status:** ✅ Complete
 
+
+### 📁 [08-Performance-Engineering](./08-Performance-Engineering)
+- **Focus:** Query Optimization & System Performance.
+- **Concepts:** `B-Tree Indexing`, `Composite Indexes`, and `SQL Views`.
+- **Architectural Goal:** Minimizing latency and abstracting schema complexity for scalable applications.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
