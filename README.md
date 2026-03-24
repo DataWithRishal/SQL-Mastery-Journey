@@ -55,6 +55,12 @@ This repository is organized into strategic modules designed to master database 
 - **Architectural Goal:** Minimizing latency and abstracting schema complexity for scalable applications.
 - **Status:** ✅ Complete
 
+### 📁 [09-Advanced-Data-Modeling](./09-Advanced-Data-Modeling)
+- **Focus:** Complex Logical Structures & Modular SQL.
+- **Concepts:** `Common Table Expressions (CTEs)`, `Recursive Queries`, and `Correlated Subqueries`.
+- **Architectural Goal:** Writing readable, maintainable, and high-performance logic for business intelligence.
+- **Status:** ✅ Complete
+
 ---
 
 ## 🛠️ Tech Stack
