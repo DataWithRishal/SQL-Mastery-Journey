@@ -61,6 +61,12 @@ This repository is organized into strategic modules designed to master database 
 - **Architectural Goal:** Writing readable, maintainable, and high-performance logic for business intelligence.
 - **Status:** ✅ Complete
 
+### 📁 [10-Database-Automation](./10-Database-Automation)
+- **Focus:** Server-Side Logic & Automation.
+- **Concepts:** `Stored Procedures`, `DELIMITER`, `Parameters (IN/OUT)`, and `Encapsulation`.
+- **Architectural Goal:** Reducing network traffic and centralizing business logic within the database.
+- **Status:** 🏆 **COMPLETED**
+
 ---
 
 ## 🛠️ Tech Stack
